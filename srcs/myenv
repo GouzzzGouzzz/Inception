@@ -1,0 +1,12 @@
+ROOT_PASSWORD=rootpass
+DATABASE=my_mariadb
+USER=user1
+PASSWORD=user1
+WP_ADMIN=CoolUser
+WP_ADMIN_PASS=adminpass
+MAIL=admin@mail.fr
+USER_WP=wpuser
+USER_WP_MAIL=wp@mail.fr
+USER_WP_PASS=wppass
+TITLE=wordpress_server
+URL=nmorandi.42.fr
